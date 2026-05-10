@@ -1,0 +1,16 @@
+{
+  "name": "@technicalheist/bu",
+  "version": "1.1.0",
+  "description": "Browser automation CLI — short alias for browser-use with auto-state",
+  "bin": {
+    "bu": "./bin/bu.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/technicalheist/bu"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT"
+}
